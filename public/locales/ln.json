@@ -1,21 +1,21 @@
 {
 	"colors": {		
 		"none": "Aucune",
-		"red": "Rouge",
-		"orange": "Orange",
-		"yellow": "Jaune",
-		"green": "Vert",
-		"blue": "Bleu",
-		"purple": "Violet"
+		"red": "Ngóla",
+		"orange": "Malála",
+		"yellow": "Bondɔbɔ́",
+		"green": "Mpɔndú",
+		"blue": "Bozinga",
+		"purple": "Longondo"
 	},
 	"common": {
-		"add": "Ajouter",
+		"add": "Kobakisa",
 		"appName": "Twine",
-		"cancel": "Annuler",
-		"delete": "Supprimer",
+		"cancel": "Kozóngela",
+		"delete": "Kolímuisa",
 		"deselectAll": "Désélectionner tout",
-		"duplicate": "Dupliquer",
-		"edit": "Modifier",
+		"duplicate": "Kosanga",
+		"edit": "Kobimisela",
 		"ok": "OK",
 		"play": "Lancer",
 		"rename": "Renommer",
@@ -55,7 +55,7 @@
 		"addStoryFormatButton": {},
 		"addTagButton": {
 			"alreadyAdded": "Cette balise existe déjà.",
-			"addLabel": "Ajouter balise",
+			"addLabel": "Kobakisa balise",
 			"invalidName": "Veuillez entrer un nom de balise valide.",
 			"newTag": "Nouvelle balise",
 			"tagColorLabel": "Couleur de la balise",
